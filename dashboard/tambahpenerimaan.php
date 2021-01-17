@@ -124,7 +124,7 @@ input[type="date"]::-webkit-datetime-edit-day-field{
                 <a  href="datapenjualankarton.php"><i class="fa fa-database"></i> Data Penjualan Karton</a>
               </li>
               <li>
-                <a  href="formpenjualan.php"><i class="fa fa-plus-square"></i> Tambah Data Non Karton</a>
+                <a  href="formpenjualannonkarton.php"><i class="fa fa-plus-square"></i> Tambah Data Non Karton</a>
               </li>
               <li>
                 <a  href="formpenjualankarton.php"><i class="fa fa-plus-square"></i> Tambah Data Karton</a>
